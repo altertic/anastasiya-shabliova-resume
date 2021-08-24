@@ -44,7 +44,7 @@ email: ""
 ---
 Formation
 
-Formation de préparation pour l’examen d’État international de langue russe TRKI, Univircité d’état de Saint-Petersbourg, 2021
+Formation de préparation pour l’examen d’État international de langue russe TRKI, Univercité d’État de Saint-Petersbourg, 2021
 
 Formation aux logiciels standards Photoshop, Illustrator, Indesign, GRETA Charente, Angoulême, 2011
 
