@@ -41,8 +41,10 @@ education:
       institution: "Université d’État de Biélorussie, Minsk "
     - course: Diplôme de fin d’études secondaires
       institution: école des beaux-arts n°1, Vitebsk, Biélorussie
-    - course: Diplôme de fin d’études secondaires
+      year: 1999
+    - course: Diplôme de fin d’études secondaires 1994-1998
       institution: école d'art plastique, spécialité peinture,  Vitebsk, Biélorussie
+      year: 1994
 superuser: true
 highlight_name: false
 title: Anastasiya SHABLIOVA-GIRE
