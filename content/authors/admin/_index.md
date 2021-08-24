@@ -1,6 +1,6 @@
 ---
-title: Anastasiya SHABLIOVA GIRE
 role: Enseignante en langue russe
+avatar_filename: dscf6977.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -37,13 +37,25 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
 superuser: true
 highlight_name: false
+title: Anastasiya SHABLIOVA-GIRE
+email: ""
 ---
+Formation
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Formation de préparation pour l’examen d’État international de langue russe TRKI, Univircité d’état de Saint-Petersbourg, 2021
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Formation aux logiciels standards Photoshop, Illustrator, Indesign, GRETA Charente, Angoulême, 2011
+
+Master 1 Information - Communication, option cinéma – CREADOC, 2006-2007
+
+Diplôme de fin d'études supérieures, faculté de journalisme, spécialité Radio-Télévision Université d’État de Biélorussie, Minsk, 1999-2005
+
+Diplôme de fin d’études secondaires, école des beaux-arts n°1, Vitebsk, Biélorussie, 1999
+
+Diplôme de fin d’études secondaires, école d'art plastique, spécialité peinture, Vitebsk, Biélorussie, 1994-1998
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
