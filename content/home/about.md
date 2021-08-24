@@ -8,9 +8,9 @@ weight: 20
 title: Biography
 design:
   background:
-    color: "#932c2c"
-    gradient_start: "#b76767"
-    gradient_end: "#890000"
+    color: "#97b2ea"
+    gradient_start: "#ffffff"
+    gradient_end: "#ddb4b4"
     text_color_light: true
     image_darken: 0.7
 ---
