@@ -14,14 +14,3 @@ design:
     text_color_light: true
     image_darken: 0.7
 ---
-ihhjgh
-
-lkk
-
-kkhhj
-
-hjhj
-
-;n
-
-;nn;
