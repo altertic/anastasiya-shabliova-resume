@@ -1,8 +1,11 @@
 ---
+title: Anastasiya SHABLIOVA-GIRE
 role: Enseignante en langue russe
-avatar_filename: dscf6977.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: anastasiya-chabliova.jpg
+bio: Originaire de Biélorussie, vivant en France depuis près de 15 ans, je
+  propose des cours de russe à Angoulême, en Charente, en groupe (cours
+  collectifs via l'association Franco-Russe Droujba) ou individuels (cours
+  particuliers de russe).
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -45,10 +48,9 @@ education:
     - course: Diplôme de fin d’études secondaires 1994-1998
       institution: école d'art plastique, spécialité peinture,  Vitebsk, Biélorussie
       year: 1994
+email: a.shabliova@gmail.com
 superuser: true
 highlight_name: false
-title: Anastasiya SHABLIOVA-GIRE
-email: a.shabliova@gmail.com
 ---
 Experience 
 
